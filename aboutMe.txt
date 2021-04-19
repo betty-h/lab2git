@@ -1,1 +1,8 @@
-My name is Betty and I'm a junior COEN. If you see a small Asian girl in a hoodie pennyboarding across campus, that's probably me. And I play badminton.
+My name is Betty and I'm a junior COEN. If you see a small Asian girl in a hoodie pennyboarding across campus, 
+that's probably me. And I play badminton.
+
+Current courses:
+- COEN 174
+- ENGR 19
+- ENGL 181
+- ELEN 153
